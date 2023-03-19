@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhaoyi Zhou 周赵一"
+title                    : "Zhaoyi Zhou"
 title_separator          : "-"
-name                     : &name "Zhaoyi Zhou (周赵一)"
+name                     : &name "Zhaoyi Zhou"
 description              : &description "Undergraduate at IIIS, Tsinghua University"
 url                      : https://phantom-1123.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhaoyi Zhou (周赵一)"
+  name             : "Zhaoyi Zhou"
   avatar           : "profile4.png"
   bio              : "Undergraduate at IIIS, Tsinghua University"
   location         : #"Tsinghua University"
