@@ -6,4 +6,5 @@ _site/
 *.out
 *.synctex.gz
 cv/*.pdf
+cv_old/
 
