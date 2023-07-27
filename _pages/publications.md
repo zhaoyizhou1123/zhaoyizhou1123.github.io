@@ -20,4 +20,4 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 - [Convergence Rates for Localized Actor-Critic in Networked Markov Potential Games](https://arxiv.org/abs/2303.04865), 
   **Zhaoyi Zhou**, Zaiwei Chen, Yiheng Lin, and Adam Wierman, 
-  under review.
+  accepted by UAI 2023.
