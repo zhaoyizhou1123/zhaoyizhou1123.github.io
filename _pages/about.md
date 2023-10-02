@@ -9,17 +9,16 @@ redirect_from:
 ---
 
 I am a senior student of Yao Class at [IIIS](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/). 
-I have a broad interest in theoretical foundations of machine learning as well as their applications 
-
-I have been working on reinceforcement learning theory, such as multi-agent
-RL and offline RL. Besides, I also look forward to participating in other research fields of machine learning, including but not limited to deep learning (theory), optimization, game theory and control. 
+I currently work on reinceforcement learning, such as multi-agent
+RL and offline RL. I aim at designing RL algorithms that are both theoretically sound and applicable in practice. In a broader sense, I have a wide interest in machine learning theory and applications, including but not limited to deep learning, robotics, game theory, optimization and control.
 
 # Selected Research
 <!-- - June 2023 - now: Optimization, supervised by Prof. [Jingzhao Zhang](https://sites.google.com/view/jingzhao/home). We hope to extend parameter-free optimization in stochastic gradient setting. -->
 ## Model-based return-conditioned supervised learning
-Research intern at UW (Feb. 2023 - Aug. 2023)
+Research intern at UW (Feb. 2023 - Aug. 2023).
 
 Supervisor: [Simon S. Du](https://simonshaoleidu.com/). 
+
 <!-- ![mbrcsl](../images/mbrcsl.png) -->
  <img src="../images/mbrcsl.png" style="zoom:33%;" />
 
@@ -28,9 +27,10 @@ We proposed model-based return-conditioned supervised learning (**MBRCSL**), a n
 <!-- - Feb 2023 - now: Offline RL, supervised by Prof. [Simon Shaolei Du](https://simonshaoleidu.com/) at University of Washington. We aim to discover advantages of decision transformer (DT) over classical offline RL algorithms from theoretical perspective, and improve DT to cope with issue of trajectory stitching.  -->
 
 ## Networked Markov Potential Games
-Remote research intern at Caltech (Feb. 2022 - Feb. 2023)
+Remote research intern at Caltech (Feb. 2022 - Feb. 2023).
 
 Supervisor: [Adam Wierman](https://adamwierman.com/).
+
 <img src="../images/NMPG.png" style="zoom:33%;" />
 
 We proposed networked Markov potential games (NMPG) as a more practical relaxation of Markov potential games (MPG), and designed a localized actor-critic algorithm with provable finite-sample bound.

@@ -18,6 +18,14 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=9fPuoP4AAAAJ&hl=zh-CN) profile.
 
-- [Convergence Rates for Localized Actor-Critic in Networked Markov Potential Games](https://arxiv.org/abs/2303.04865), 
-  **Zhaoyi Zhou**, Zaiwei Chen, Yiheng Lin, and Adam Wierman, 
-  accepted by UAI 2023.
+<!-- - Free from Bellman Completeness: Trajectory Stitching via Model-based Return-conditioned Supervised Learning.
+
+**Zhaoyi Zhou**, Chuning Zhu, Runlong Zhou, Qiwen Cui, Abhishek Gupta, and Simon S. Du.
+
+Submitted to ICLR 2024. -->
+
+- Convergence Rates for Localized Actor-Critic in Networked Markov Potential Games.
+
+  **Zhaoyi Zhou**, Zaiwei Chen, Yiheng Lin, and Adam Wierman.
+
+  Accepted by UAI 2023. [[arxiv]](https://arxiv.org/abs/2303.04865) [[poster]](/files/UAI2023_Poster_Networked_Markov_Games.pdf)
