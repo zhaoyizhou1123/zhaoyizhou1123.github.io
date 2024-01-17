@@ -42,6 +42,7 @@ We proposed networked Markov potential games (NMPG) as a more practical relaxati
 - Familiar with AI frameworks: Pytorch -->
 
 # News
+- Jan 2024: One [paper](https://arxiv.org/abs/2310.19308) accepted by ICLR 2024!
 - Nov 2023: One [paper](https://arxiv.org/abs/2310.19308) accepted by NeurIPS 2023 [FMDM](https://sites.google.com/view/fmdm-neurips23/home) workshop (**oral**)! Thanks for efforts from all collaborators!
 - Aug 2023: Participate in UAI 2023.
 - May 2023: One [paper](https://arxiv.org/abs/2303.04865) accepted by UAI 2023! Thanks for generous support from Dr. [Zaiwei Chen](https://www.zaiweichen.com/home), [Yiheng Lin](https://yihenglin97.github.io/) and Prof. [Adam Wierman](https://adamwierman.com/).

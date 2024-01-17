@@ -18,16 +18,13 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=9fPuoP4AAAAJ&hl=zh-CN) profile.
 
-- Free from Bellman Completeness: Trajectory Stitching via Model-based Return-conditioned Supervised Learning.
+- [Free from Bellman Completeness: Trajectory Stitching via Model-based Return-conditioned Supervised Learning](https://arxiv.org/abs/2310.19308). \\
+  **Zhaoyi Zhou**, Chuning Zhu, Runlong Zhou, Qiwen Cui, Abhishek Gupta, and Simon Shaolei Du. \\
+  Accepted by *International Conference on Learning Representations* (ICLR) 2024; \\
+  **ORAL** presentation at *Foundation Models for Decision Making workshop* of NeurIPS 2023. \\
+  [[website]](mbrcsl_website/) [[video]](https://youtu.be/6F8LmdUe65o)
 
-  **Zhaoyi Zhou**, Chuning Zhu, Runlong Zhou, Qiwen Cui, Abhishek Gupta, and Simon Shaolei Du.
-
-  To appear as **ORAL** presentation at Foundation Models for Decision Making (FMDM) workshop of NeurIPS 2023.
-  
-  [[website]](mbrcsl_website/) [[arXiv]](https://arxiv.org/abs/2310.19308) [[video]](https://youtu.be/6F8LmdUe65o)
-
-- Convergence Rates for Localized Actor-Critic in Networked Markov Potential Games.
-
-  **Zhaoyi Zhou**, Zaiwei Chen, Yiheng Lin, and Adam Wierman.
-
-  Conference on Uncertainty in Artificial Intelligence (UAI) 2023. [[arXiv]](https://arxiv.org/abs/2303.04865) [[poster]](/files/UAI2023_Poster_Networked_Markov_Games.pdf)
+- [Convergence Rates for Localized Actor-Critic in Networked Markov Potential Games](https://arxiv.org/abs/2303.04865). \\
+  **Zhaoyi Zhou**, Zaiwei Chen, Yiheng Lin, and Adam Wierman. \\
+  *Conference on Uncertainty in Artificial Intelligence* (UAI) 2023. \\
+  [[poster]](/files/UAI2023_Poster_Networked_Markov_Games.pdf)
