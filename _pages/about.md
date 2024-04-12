@@ -8,8 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior student of Yao Class at [IIIS](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/). 
-My goal is to develop machine learning algorithms that combine rigorous theoretical foundations with real-world practicality. Currently, I focus on both theoretical and empirical questions in reinforcement learning. In addition, I have a wide interest in fields related to machine learning, including but not limited to game theory, robotics, large language models, deep learning, optimization and control.
+Hello! I am a final year student of Yao Class at [IIIS](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/). I will join Carnegie Mellon University (CMU) as a Ph.D. student in [Electrical and Computer Engineering (ECE)](https://www.ece.cmu.edu/), starting from Fall 2024. 
+
+My research passion lies in designing scalable and efficient algorithms for practical machine learning systems. For this aim, I am interested in a broad spectrum of topics, including but not limited to large language models, distributed machine learning and reinforcement learning. During my undergraduate studies, I focused on reinforcement learning, developing algorithms that integrate rigorous theoretical foundations with real-world practicality.
+
+I am open to collaborations. If you have any ideas which we both might be interested in, please feel free to reach out!
 
 # Selected Research
 <!-- - June 2023 - now: Optimization, supervised by Prof. [Jingzhao Zhang](https://sites.google.com/view/jingzhao/home). We hope to extend parameter-free optimization in stochastic gradient setting. -->
