@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a final year student of Yao Class at [IIIS](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/). I will join Carnegie Mellon University (CMU) as a Ph.D. student in [Electrical and Computer Engineering (ECE)](https://www.ece.cmu.edu/), starting from Fall 2024. 
+Hello! I am an incoming Ph.D. student at Carnegie Mellon University (CMU) in [Electrical and Computer Engineering (ECE)](https://www.ece.cmu.edu/), starting from Fall 2024. Prior to that, I completed my undergraduate program from Yao Class at [IIIS](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/).
 
 My research passion lies in designing scalable and efficient algorithms for practical machine learning systems. For this aim, I am interested in a broad spectrum of topics, including but not limited to large language models, distributed machine learning and reinforcement learning. During my undergraduate studies, I focused on reinforcement learning, developing algorithms that integrate rigorous theoretical foundations with real-world practicality.
 
