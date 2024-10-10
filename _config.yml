@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhaoyi Zhou 周赵一"
 title_separator          : "-"
 name                     : &name "Zhaoyi Zhou (周赵一)"
-description              : &description "Undergraduate at IIIS, Tsinghua University"
+description              : &description "Ph.D. student at Carnegie Mellon University"
 url                      : https://zhaoyizhou1123.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhaoyizhou1123.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhaoyi Zhou (周赵一)"
   avatar           : "profile4.png"
-  bio              : "Undergraduate at IIIS, Tsinghua University"
+  bio              : "Ph.D. student at Carnegie Mellon University"
   location         : #"Tsinghua University"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
