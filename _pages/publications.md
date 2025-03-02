@@ -18,6 +18,12 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=9fPuoP4AAAAJ&hl=zh-CN) profile.
 
+- [Accelerating Unbiased LLM Evaluation via Synthetic Feedback](https://arxiv.org/abs/2310.19308). \\
+  **Zhaoyi Zhou**, Yuda Song, and Andrea Zanette.
+   \\
+  Under review at *International Conference on Machine Learning* (ICML) 2025; \\
+  [[website]](cve_website/)
+
 - [Free from Bellman Completeness: Trajectory Stitching via Model-based Return-conditioned Supervised Learning](https://arxiv.org/abs/2310.19308). \\
   **Zhaoyi Zhou**, Chuning Zhu, Runlong Zhou, Qiwen Cui, Abhishek Gupta, and Simon Shaolei Du. \\
   Accepted by *International Conference on Learning Representations* (ICLR) 2024; \\
