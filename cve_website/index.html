@@ -159,24 +159,26 @@
             Accurately evaluating the performance of large language models (LLMs) is crucial before large-scale deployment. <em> Human evaluation </em> remains the gold standard, but this approach demands substantial time and financial resources. It may also diminish user experience when conducted with active system users,
           </p>
           <p>
-            <em> Synthetic evaluation </em>, on the other hand, generates annotations using a reward model or LLM (e.g., GPT-4). Though reducing the need for extensive human involvement, synthetic evaluators can not perfectly reflect human preference and often introduce bias, undermining the evaluation reliability.
+            <em> Synthetic evaluation</em>, on the other hand, generates annotations using a reward model or LLM (e.g., GPT-4). Though reducing the need for extensive human involvement, synthetic evaluators can not perfectly reflect human preference and often introduce bias, undermining the evaluation reliability.
           </p>
           <p> In this work, we propose <em> Control Variates Evaluation </em> to integrate human and synthetic feedback, mitigating reliance on human annotations while maintaining unbiased evaluations. 
           </p>
         </div>
         <div class="content has-text-centered">
           <img src="./static/images/workflow_final.png" class="inline-figure" alt="workflow" 
-          width="50%" height="auto"/>
-          <img src="./static/images/bootstrap_err_v2.png" class="inline-figure" alt="mbrcsl" 
-          width="40%" height="auto"/>
+          width="70%" height="auto"/>
+          <!-- <img src="./static/images/bootstrap_err_v2.png" class="inline-figure" alt="mbrcsl" 
+          width="40%" height="auto"/> -->
         </div>
         <p style="font-size: 0.8em; margin-top: 0.5rem">
-          <strong>Figure 1:</strong> (Left) Control Variates Evaluation makes use of a possibly inaccurate synthetic evaluator to reduce the variance of evaluation, reducing the need of human annotations while preserving unbiasedness. (Right) Averaged mean square error v.s. number of human annotations for Human Evaluation, Synthetic Evaluation and Control Variates Evaluation (ours) using the finetuned Skywork-8B evaluator on Chatbot Arena. The Synthetic Evaluation has high bias, while the bias of Human and Control Variates Evaluations are negligible. Control Variates Evaluation reduces the variance of Human Evaluation.
+          <strong>Figure 1:</strong> Control Variates Evaluation makes use of a possibly inaccurate synthetic evaluator to reduce the variance of evaluation, reducing the need of human annotations while preserving unbiasedness. 
         </p>
       </div>  
     </div>
   </div>
 </section>
+
+<!-- (Right) Averaged mean square error v.s. number of human annotations for Human Evaluation, Synthetic Evaluation and Control Variates Evaluation (ours) using the finetuned Skywork-8B evaluator on Chatbot Arena. The Synthetic Evaluation has high bias, while the bias of Human and Control Variates Evaluations are negligible. Control Variates Evaluation reduces the variance of Human Evaluation. -->
 
 <!-- saving -->
 <!-- <section class="section">
@@ -212,11 +214,11 @@
           </p>
         </div>
         <div class="content has-text-centered">
-          <img src="./static/images/bootstrap_var_v2.png" class="inline-figure" alt="saving table" 
+          <img src="./static/images/bootstrap_all.png" class="inline-figure" alt="saving table" 
           width="50%" height="auto"/>
         </div>
         <p style="font-size: 0.8em; margin-top: 0.5rem">
-          <strong>Figure 2:</strong> Averaged mean-square error versus number of human annotations for Skywork-8B (finetuned) on Chatbot Arena. The $x$-coordinate of curves "Human" and "Ours" correspond to the number of human annotations. The curve "Human (shifted)" is derived by horizontally scaling the Human Evaluation curve according to the theoretically predicated saving. The averaged mean-square error of Control Variates Evaluation (ours) converges to near 0, indicating that it has negligible bias. The human annotation saving ratio aligns perfectly with the actual variance relationship between Human Evaluation and Control Variates Evaluation.
+          <strong>Figure 2:</strong> Averaged mean-square error versus number of human annotations for Skywork-8B (finetuned) on Chatbot Arena. The $x$-coordinate of curves "Human" and "Ours" correspond to the number of human annotations. The curve "Human (shifted)" is derived by horizontally scaling the Human Evaluation curve according to the theoretically predicated saving. The averaged mean-square error of Control Variates Evaluation (ours) converges to near 0, indicating that it has negligible bias in contrast with the high bias of synthetic evaluation. The human annotation saving ratio aligns perfectly with the actual variance relationship between Human Evaluation and Control Variates Evaluation.
         </p>
       </div>
     </div>
@@ -246,7 +248,7 @@
           width="30%" height="auto"/>
         </div>
         <p style="font-size: 0.8em; margin-top: 0.5rem">
-          <strong>Figure 3:</strong> Averaged human annotation saving ratio before and after fine-tuning for GRM-Gemma-2B-sftreg and Skywork-Reward-Llama-3.1-8B-v0.2 on Chatbot Arena and MT-Bench. Under all setups, we observe at least 5\% increase in the saving ratio.
+          <strong>Figure 3:</strong> Averaged human annotation saving ratio before and after fine-tuning for GRM-Gemma-2B-sftreg and Skywork-Reward-Llama-3.1-8B-v0.2 on Chatbot Arena and MT-Bench. Under all setups, we observe at least 5% increase in the saving ratio.
         </p>
       </div>
     </div>
