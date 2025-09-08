@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a first-year Ph.D. student at Carnegie Mellon University (CMU) in [Electrical and Computer Engineering (ECE)](https://www.ece.cmu.edu/). I am fortunate to be advised by [Andrea Zanette](https://azanette.com/). Prior to that, I completed my undergraduate program from Yao Class at [IIIS](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/).
+Hello! I am a second-year Ph.D. student at Carnegie Mellon University (CMU) in [Electrical and Computer Engineering (ECE)](https://www.ece.cmu.edu/). I am fortunate to be advised by [Andrea Zanette](https://azanette.com/). Prior to that, I completed my undergraduate program from Yao Class at [IIIS](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/).
 
 My research passion lies in designing scalable and efficient algorithms with theoretical insights for practical machine learning problems. Currently, I focus on the problems related to foundation models, including but not limited to reasoning, alignment, fine-tuning, and safety. During my undergraduate studies, my concentration was on reinforcement learning.
 
@@ -52,10 +52,10 @@ We proposed networked Markov potential games (NMPG) as a more practical relaxati
 - Experienced in common programming language: C++, Python, Go, Verilog.
 - Familiar with AI frameworks: Pytorch -->
 
-# News
+<!-- # News
 - Sep 2024: I have joined CMU as a PhD student! I look forward to future collaborations with my advisor, [Andrea Zanette](https://azanette.com/). 
 - Jan 2024: One [paper](https://arxiv.org/abs/2310.19308) accepted by ICLR 2024!
 - Nov 2023: One [paper](https://arxiv.org/abs/2310.19308) accepted by NeurIPS 2023 [FMDM](https://sites.google.com/view/fmdm-neurips23/home) workshop (**oral**)! Thanks for efforts from all collaborators!
 - Aug 2023: Participate in UAI 2023.
 - May 2023: One [paper](https://arxiv.org/abs/2303.04865) accepted by UAI 2023! Thanks for generous support from Dr. [Zaiwei Chen](https://www.zaiweichen.com/home), [Yiheng Lin](https://yihenglin97.github.io/) and Prof. [Adam Wierman](https://adamwierman.com/).
-- Feb 2023: Begin my spring visit at UW. Look forward to cooperation with Prof. [Simon Shaolei Du](https://simonshaoleidu.com/).
+- Feb 2023: Begin my spring visit at UW. Look forward to cooperation with Prof. [Simon Shaolei Du](https://simonshaoleidu.com/). -->

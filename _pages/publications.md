@@ -21,7 +21,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 - [Accelerating Unbiased LLM Evaluation via Synthetic Feedback](https://arxiv.org/abs/2310.19308). \\
   **Zhaoyi Zhou**, Yuda Song, and Andrea Zanette.
    \\
-  Under review at *International Conference on Machine Learning* (ICML) 2025; \\
+  Accepted by *International Conference on Machine Learning* (ICML) 2025; \\
   [[website]](cve_website/)
 
 - [Free from Bellman Completeness: Trajectory Stitching via Model-based Return-conditioned Supervised Learning](https://arxiv.org/abs/2310.19308). \\
