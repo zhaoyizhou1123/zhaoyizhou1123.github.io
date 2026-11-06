@@ -8,13 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a second-year Ph.D. student at Carnegie Mellon University (CMU) in [Electrical and Computer Engineering (ECE)](https://www.ece.cmu.edu/). I am fortunate to be advised by [Andrea Zanette](https://azanette.com/). Prior to that, I completed my undergraduate program from Yao Class at [IIIS](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/).
+Hello! I am a third-year Ph.D. student at Carnegie Mellon University (CMU) in [Electrical and Computer Engineering (ECE)](https://www.ece.cmu.edu/). I am fortunate to be advised by [Andrea Zanette](https://azanette.com/). Prior to that, I completed my undergraduate program from Yao Class at [IIIS](https://iiis.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/).
 
-My research passion lies in designing scalable and efficient algorithms with theoretical insights for practical machine learning problems. Currently, I focus on the problems related to foundation models, including but not limited to reasoning, alignment, fine-tuning, and safety. During my undergraduate studies, my concentration was on reinforcement learning.
+My research passion lies in expanding the boundary of Large Language Model (LLM) reasoning. My research experience spans across LLM post-training, diffusion language models and reinforcement learning. 
 
-I am open to collaborations. If you have any ideas which we both might be interested in, please feel free to reach out!
+I am actively looking for research internship opportunities in summer 2027. 
 
 # Selected Research
+## Training Small Language Models for Transferable Tool Selection
+May 2026 - Aug 2026
+
+[![Overview of the tool search agent for transferable tool selection]({{ '/images/tool_search_agent.png' | relative_url }})]({{ '/images/tool_search_agent.pdf' | relative_url }})
+
+We train a small Qwen3 model via reinforcement learning for tool searching, a bottleneck in recent LLM agents tool calling. The trained model outperforms Llama-4-Maverick on ToolBench. We also demonstrate the transferability of the model across retrievers and to new tool corpora domains.
+
+
 ## Control Variates Evaluation for head-to-head LLM comparison
 Aug 2024 - Jan 2025
 
@@ -52,8 +60,9 @@ We proposed networked Markov potential games (NMPG) as a more practical relaxati
 - Experienced in common programming language: C++, Python, Go, Verilog.
 - Familiar with AI frameworks: Pytorch -->
 
-<!-- # News
-- Sep 2024: I have joined CMU as a PhD student! I look forward to future collaborations with my advisor, [Andrea Zanette](https://azanette.com/). 
+# News
+- May 2026: I have started my internship at Meta!
+<!-- - Sep 2024: I have joined CMU as a PhD student! I look forward to future collaborations with my advisor, [Andrea Zanette](https://azanette.com/). 
 - Jan 2024: One [paper](https://arxiv.org/abs/2310.19308) accepted by ICLR 2024!
 - Nov 2023: One [paper](https://arxiv.org/abs/2310.19308) accepted by NeurIPS 2023 [FMDM](https://sites.google.com/view/fmdm-neurips23/home) workshop (**oral**)! Thanks for efforts from all collaborators!
 - Aug 2023: Participate in UAI 2023.
